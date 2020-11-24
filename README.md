@@ -1,10 +1,10 @@
 # Breakout - Heroku Deployment
 
 ### To Do
-* [ ] Create a CRA app
-* [ ] Create an Express server
-* [ ] Heroku CLI
-* [ ] Create a named Heroku app
-* [ ] Deploy our app
+* [x] Create a CRA app
+* [x] Create an Express server
+* [x] Heroku CLI
+* [x] Create a named Heroku app
+* [x] Deploy our app
 * [ ] Add a Postgres database
 * [ ] Environment variables on Heroku
