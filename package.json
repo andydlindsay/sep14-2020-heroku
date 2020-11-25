@@ -1,8 +1,8 @@
 {
   "name": "sep14-2020-heroku",
   "version": "1.0.0",
-  "description": "### To Do * [ ] Create a CRA app * [ ] Create an Express server * [ ] Heroku CLI * [ ] Create a named Heroku app * [ ] Deploy our app * [ ] Add a Postgres database * [ ] Environment variables on Heroku",
-  "main": "index.js",
+  "description": "Demo app",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
