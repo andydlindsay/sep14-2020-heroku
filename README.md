@@ -6,5 +6,5 @@
 * [x] Heroku CLI
 * [x] Create a named Heroku app
 * [x] Deploy our app
-* [ ] Add a Postgres database
-* [ ] Environment variables on Heroku
+* [x] Add a Postgres database
+* [x] Environment variables on Heroku
